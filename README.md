@@ -5,7 +5,7 @@ It involves training and testing. Machine learning can be categorized into follo
 2) Unsupervised Learning
 3) Semi-supervised Learning
 
-This repository contains following basic machine learning algorithms:
+This repository contains following Supervised Machine Learning algorithms:
 1) Batch Gradient Descent
 2) Stochastic Gradient Desent
 3) Steepest Gradient Descent
