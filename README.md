@@ -10,3 +10,5 @@ This repository contains following Supervised Machine Learning algorithms:
 2) Stochastic Gradient Desent
 3) Steepest Gradient Descent
 4) Logistic Regression
+5) Principal Component Analysis
+6) Bias and Variance
